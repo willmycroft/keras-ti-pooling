@@ -1,4 +1,4 @@
-# A Keras network wrapper for implementing Transformation-Invariant pooling.
+# A Keras network wrapper for implementing transformation-invariant pooling.
 
 A Keras interface to the techniques detailed in *TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks* by Dmitry Laptev, Nikolay Savinov, Joachim M. Buhmann and Marc Pollefeys.
 

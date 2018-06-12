@@ -2,6 +2,8 @@
 
 A Keras interface to the techniques detailed in *TI-POOLING: transformation-invariant pooling for feature learning in Convolutional Neural Networks* by Dmitry Laptev, Nikolay Savinov, Joachim M. Buhmann and Marc Pollefeys.
 
+![Example grahps](/example.png?raw=true)
+
 ## Quick start
 ```python
 from keras.models import Sequential, Model
